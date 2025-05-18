@@ -26,5 +26,5 @@ The objective of this exercise is to ascertain whether the given variables are d
 
 ## 👤 Author
 Kenroy Adams  
-BSc Mathematics | Aspiring Data Analyst 
+BSc Mathematics | Aspiring Data Analyst and Mathematical Statistician
 [LinkedIn](https://www.linkedin.com/in/kenroy-adams-985070178/)  
